@@ -2,7 +2,7 @@
   "name": "to",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://avikm012.github.io",
+  "homepage": "https://avikm012/avikm012.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
